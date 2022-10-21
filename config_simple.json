@@ -1,0 +1,8 @@
+{
+	"filename": "/mnt/d/temp/logrotate/myapp.log",
+	"maxsize": 1,
+	"maxage": 1,
+	"maxbackups": 1,
+	"localtime": true,
+	"compress": false
+}
